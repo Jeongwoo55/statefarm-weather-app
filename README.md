@@ -1,11 +1,7 @@
-# Sample Snack app
+# State Farm Weather app
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
+Our react-native mobile app displays location-based weather data and uses a trained machine learning algorithm to analyze the severity of a car crash given the data and identifies driver precautions. Our app uses a machine learning model derived from the Statefarm-supplied crash data to analyze real time weather data streaming from a user's device and inform them of the possible severity of a crash. It then displays factors to watch out for in order to decrease that severity if the severity met a certain threshold. 
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
+Use snack.expo.io and import as git repository.
+Only Android emulator works in the preview menu.
+Otherwise, download Expo on your phone and open app.
